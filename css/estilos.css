@@ -1,0 +1,39 @@
+.dark-header{
+	background: #4b4b4b;
+	padding: 0px;
+}
+
+.img-logo{
+	width: 30%;
+	margin-left: 35%;
+}
+
+.img-home{
+	display: block;
+    margin: auto;
+    width: 75%;
+}
+
+.div-principal{
+	margin-top: -25px;
+}
+
+.div-integrantes{
+	background-color: #2f3d4a !important;
+}
+
+.img-desarrollador{
+	height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 2px solid #CCC;
+    margin-left: 15px;
+}
+
+.footer-desarrolladores{
+	margin-bottom: -10%;
+}
+
+.txt-white{
+	color: #FFF;
+}
